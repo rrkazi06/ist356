@@ -15,4 +15,4 @@ if hi_clicked:
         st.error(f"I can't say hello, if you don't tell me your name!", icon="💣")
 
 if clear_clicked:
-    name = None 
+    name = None
